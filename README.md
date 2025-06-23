@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Microfrontend Enthusiast | UI Performance Advocate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Engineer+%7C+Vue%2FReact%2FAngular;Microfrontend+Architecture;Building+scalable+modular+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=455&lines=Frontend+Engineer+%7C+Vue%2FReact%2FAngular;Microfrontend+Architecture;Building+scalable+modular+apps" alt="Typing SVG" />
 </p>
 
 ---
