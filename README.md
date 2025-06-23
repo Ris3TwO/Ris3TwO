@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Manuel Ron (@Ris3TwO)</h1>
+<h3 align="center">Frontend Developer | Microfrontend Enthusiast | UI Performance Advocate</h3>
 
-<!--
-**Ris3TwO/Ris3TwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Engineer+%7C+Vue%2FReact%2FVite;Microfrontend+Architecture;Building+scalable+modular+apps" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🔭 Currently building a modular ERP system using **microfrontends** architecture  
+- 🛠 Focused on **performance**, **scalability**, and clean UI design  
+- 🌱 Learning **NestJS**, **API Gateways**, and modern deployment for shared hosting  
+- ⚙️ Passionate about **atomic design**, **session security**, and **Vite Federation**  
+- 📫 Reach me at: **manuelron.dev [@] gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,vite,nestjs,ts,js,html,css,tailwind,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ris3TwO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ris3TwO&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- [📦 Copart Fee Calculator](https://github.com/Ris3TwO/copart-fee-calculator)  
+  A modular fee calculator built with **Vue 3 + Vite**, optimized for performance and flexibility.
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/manueljron"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:manuelron.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
