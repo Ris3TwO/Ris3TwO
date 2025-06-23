@@ -11,16 +11,16 @@
 
 - 🔭 Currently building a modular ERP system using **microfrontends** architecture  
 - 🛠 Focused on **performance**, **scalability**, and clean UI design  
-- 🌱 Learning **NestJS**, **API Gateways**, and modern deployment for shared hosting  
-- ⚙️ Passionate about **atomic design**, **session security**, and **Vite Federation**  
-- 📫 Reach me at: **manuelron.dev [@] gmail.com**
+- 🌱 Learning **NestJS**, **API Gateways**, and **modern deployment on shared hosting**  
+- ⚙️ Working with **Vue 3**, **React**, **Angular**, **Vite**, and **TailwindCSS**  
+- 📫 Reach me at: **manuelron.dev[@]gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,vite,nestjs,ts,js,html,css,tailwind,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,react,vite,nestjs,ts,js,html,css,tailwind,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
