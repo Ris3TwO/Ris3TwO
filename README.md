@@ -1,57 +1,72 @@
-<h1 align="center">Hey there 👋, I'm Manuel Ron (@Ris3TwO)</h1>
-<h3 align="center">Frontend Developer | Microfrontend Enthusiast | UI Performance Advocate</h3>
+<h1 align="center">👋 Hello, I'm Manuel Ron (@Ris3TwO)</h1>
+<h3 align="center">Frontend Architect | Microfrontend Specialist | Performance Optimizer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+Vue%2FReact%2FAngular%2FVite;Learning+Astro+%26+Headless+WordPress;Building+scalable+modular+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%7C+Vue%2FReact%2FAngular%2FVite;Modular+Systems+Enthusiast;Performance+Driven+Development" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-- 🔭 Currently building a modular ERP system using **microfrontends**
-- 🛠 Focused on **performance**, **scalability**, and clean UI design
-- 🌱 Exploring **Astro**, **Headless WordPress**, and **API Gateway with NestJS**
-- ⚙️ Working with **Vue 3**, **React**, **Angular**, **Vite**, and **TailwindCSS**
-- 📫 Reach me at: **manuelron.dev [@] gmail.com**
+- 💼 Building enterprise-grade modular ERP systems using **microfrontend architecture**
+- 🎯 Passionate about **UI performance optimization**, **scalable architectures**, and **clean code**
+- 🌱 Currently mastering **Astro**, **Headless WordPress**, and **NestJS microservices**
+- 🔧 Tech toolbox: **Vue 3 Composition API**, **React Hooks**, **Angular Signals**, **Vite**, **TailwindCSS**
+- 📫 Professional contact: **manuelron.dev@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,angular,react,vite,nestjs,astro,wordpress,ts,js,html,css,tailwind,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vue,angular,react,vite,nestjs,astro,wordpress,ts,js,html,css,tailwind,git,github,vscode,docker" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ris3TwO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ris3TwO&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ris3TwO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ris3TwO&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- [📦 Copart Fee Calculator](https://github.com/Ris3TwO/copart-fee-calculator)  
-  A modular fee calculator built with **Vue 3 + Vite**, optimized for performance and flexibility.
+#### [🚀 Copart Fee Calculator](https://github.com/Ris3TwO/copart-fee-calculator)  
+A modular fee calculator built with **Vue 3 + Vite**, optimized for performance and flexibility.
+
+#### [📡 NestJS Mailchimp Subscriber](https://github.com/Ris3TwO/mailchimp-api)  
+Robust NestJS service for managing Mailchimp list subscriptions with:  
+✔️ Custom validation pipelines  
+✔️ Type-safe Mailchimp API integration  
+✔️ Environment-aware configuration  
+✔️ Automated list management workflows
 
 ---
 
-### 📚 Currently Learning
+### 📚 Continuous Learning
 
-- ⚡ **Astro** — a fast, modern static site builder  
-- 🧩 **Headless WordPress** — using WP as a CMS backend with a decoupled frontend  
-- 📦 **API design with NestJS**, microservices and deployment workflows
+- **Astro** - Building performant static sites with island architecture  
+- **Headless WordPress** - Implementing WP as a headless CMS with React/Vue frontends  
+- **NestJS Microservices** - Advanced patterns in API gateway design and distributed systems  
+- **Web Performance** - Deep diving into Core Web Vitals optimization techniques
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Professional Network
 
 <p align="center">
-  <a href="https://linkedin.com/in/manueljron"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manuelron.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/manueljron" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:manuelron.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/manujron" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
